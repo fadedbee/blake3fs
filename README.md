@@ -1,2 +1,8 @@
 # blake3fs
-A deduping fuse filesystem.
+
+**NOT YET WORKING**
+
+A deduping fuse filesystem, which uses the Blake3 hashing algorithm.
+
+
+
